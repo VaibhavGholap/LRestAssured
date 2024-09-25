@@ -1,6 +1,6 @@
 package files;
 
-public class Payload {
+public class AddPlacePayload {
 
 	
 		
